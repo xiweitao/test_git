@@ -3,5 +3,8 @@ second change
 third change
 fourth change
 fifth change
+<<<<<<< HEAD
+=======
 dev 1
 dev 2
+>>>>>>> dev
